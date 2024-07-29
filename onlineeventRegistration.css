@@ -1,0 +1,111 @@
+
+}
+.main1{
+	background-color:#FFB0DD;
+	height:100px;
+}
+.event{
+	font-size:23px;
+	padding-top:35;
+}
+.fie{
+	width:500px;
+	height:400px;
+	margin:130px 0px 0px 500px;
+	background-color:white;
+}
+.firstname{
+	margin:20px 0px 0px 0px;
+	font-size:20px;
+	float:left;
+	color:white;
+	border-radius:18%;
+}
+.lastname{
+	margin:20px 0px 0px 0px;
+	font-size:20px;
+	color:white;
+}
+.email{
+	margin:30px 0px 0px -23px;
+	font-size:20px;
+	color:white;
+}
+.addline1{
+	margin:30px 0px 0px -23px;
+	font-size:20px;
+	color:white;
+}
+.city{
+	margin:30px 0px 0px -330px;
+	font-size:20px;
+	color:white;
+}
+.state{
+	margin:-43px 0px 0px 38px;
+	font-size:20px;
+	color:white;
+}
+.pincode{
+	margin:-40px 0px 0px 350px;
+	font-size:20px;
+	color:white;
+}
+.submit{
+	margin:40px 0px 0px -10px;
+	font-size:40px;
+}
+.one{
+	width:400px
+}
+.two{
+	width:180px;
+}
+.three{
+	width:100px
+}
+.four{
+	width:80px;
+}
+.five{
+	font-size:20px;
+	color:black;
+}
+.ev{
+	width:410px;
+}
+.border{
+	border-radius:20%;
+	height:40px;
+}
+.si{
+	font-size:40px;
+	margin-top:5px;
+}
+.en{
+	height:40px;
+	width:500px;
+	margin-top:15px;
+}
+.sub{
+	font-size:30px;
+	margin-top:5px;
+	background-color:#03C04A;
+	margin:15px 0px 0px 0px;
+	width:500px;
+	height:50px;
+	border:none;
+}
+.hr{
+	width:180px;
+	margin:20px 0px 0px -1px;
+	margin-top:30px;
+}
+.or{
+	font-size:20px
+	;margin-top:-13px;
+}
+.hr1{
+	width:180px;
+	margin:-31px 0px 0px 320px;
+}

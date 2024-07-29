@@ -1,0 +1,74 @@
+.div1{
+	background-color:#8FD400;
+	height:120px;
+}
+.turf1{
+	height:80px;
+	width:80;
+	margin:0px 0px 0px 10px;
+	padding-top:5;
+}
+.turfpe{
+	font-size:40;
+	margin:-60px 0px 0px 100px;
+}
+.ver{
+	font-size:10;
+	margin:10px 0px 0px 70px;
+}
+.home{
+	font-size:20;
+	margin:-50px 0px 0px 0px;
+}
+.user{
+	font-size:20;
+	margin:-23px 0px 0px 0px;
+}
+.ser{
+	font-size:20;
+	margin:-21px 0px 0px 0px;
+}
+.start{
+	font-size:20;
+	margin:-21px 0px 0px 0px;
+}
+.sh{
+	font-size:20;
+	margin:-23px 0px 0px 0px;
+}
+.log{
+	font-size:20;
+	margin:-23px 0px 0px 0px;
+}
+.div2{
+	background-color:#efefef;
+	height:650px;
+	margin:30px 0px 0px 0px;
+}
+.you{
+	font-size:40;
+	margin:0px 0px 0px 650px;
+	padding-top:17;
+}
+.main{
+	list-style:none;
+	font-size:20px;
+}
+.da{
+	margin:10px 0px 0px 0px;
+}
+.wo{
+	font-size:20px;
+}
+.Fo{
+	list-style:none;
+	margin:-25px 0px 0px 350px;
+	padding-left:40;
+	font-size:20px; 
+}
+.To{
+	float:left;
+	margin:-20px 0px 0px 70px;
+}
+
+

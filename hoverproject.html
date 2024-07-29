@@ -1,0 +1,91 @@
+<! doctype html>
+<html>
+	<head>
+		<title>
+			hover
+		</title>
+		<style>
+			.P{
+				height:200px;
+				width:300px;
+				margin-left:3%;
+				margin-top:5%;
+				display:block;
+			}
+			.first{
+				display:none;
+				font-size:40px;
+				margin-left:3%;
+			}
+			.p:hover + .first {
+				display:block;
+			}
+			.p{
+				height:200px;
+				width:300px;
+				margin-left:5%;
+				margin-top:5%;
+				display:block;
+			}
+			.second{
+				display:none;
+				font-size:40px;
+				margin-left:3%;
+			}
+			.p:hover + .second {
+				display:block;
+			}
+			
+			.third{
+				display:none;
+				font-size:40px;
+				margin-left:4%;
+			}
+			.p:hover + .third {
+				display:block;
+			}
+			
+			.four{
+				display:none;
+				font-size:40px;
+				margin-left:4%;
+			}
+			.p:hover + .four {
+				display:block;
+			}
+				
+			
+		</style>
+	</head>
+	<body>
+		<div style="float:left">
+			<img src="zomato.jpg" class="p">
+			<p class="first">
+			 zomato
+			</p>
+		</div>	
+		
+		<div style="float:left;margin-left:4%;">
+			<img src="swiggy.jpg" class="p">
+			<p class="second">
+			 swiggy
+			</p>
+		</div>
+		
+		<div style="float:left;margin-left:4%;">
+			<img src="blin.jpg" class="p">
+			<p class="third">
+			 blinkit
+			</p>
+		</div>
+		
+		<div style="float:left;margin-left:4%;">
+			<img src="eat.jpg" class="p">
+			<p class="four">
+			 Eat Sure
+			</p>
+		</div>
+		
+		</div>
+	</body>
+</html>
